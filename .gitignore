@@ -1,0 +1,4 @@
+*.diff
+*.c.rej
+*.def.h
+*.orig
